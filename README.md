@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website built with React and Vite. Featu
 
 ## Live Demo
 
-[https://jazzy-cascaron-a4afbc.netlify.app](https://jazzy-cascaron-a4afbc.netlify.app)
+https://sonalchavan.vercel.app/
 
 ---
 
